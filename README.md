@@ -1,16 +1,18 @@
 # SAD_Assignment
-ONLINE WEB ORDERING SYSTEM 
+# ONLINE WEB ORDERING SYSTEM 
 
 YOUTUBE LINK FOR PRESENTATION : 
 
-Abstract
+#Abstract
+
 ONLINE FOOD ORDER SYSTEM is a website designed primarily for use in the food delivery
 industry. This system will allow hotels and restaurants to increase scope of business by reducing the labor
 cost involved. The system also allows to quickly and easily manage an online menu which customers can
 browse and use to place orders with just few clicks. Restaurant employees then use these orders through an
 easy to navigate graphical interface for efficient processing.
 
-Introduction
+# Introduction
+
 It is known globally that, in today’s market, it is extremely difficult to start a new small-scale
 business and live-through the competition from the well-established and settled owners. In fast paced time
 of today, when everyone is squeezed for time, the majority of people are finicky when it comes to placing a
@@ -25,7 +27,8 @@ gets order confirmation details. Once the order is placed it is entered in the d
 much real time. This allows Restaurant Employees to quickly go through the orders as they are received
 and process all orders efficiently and effectively with minimal delays and confusion.
 
-Motivation
+# Motivation
+
 The motivation for designing this application came because my family is involved in the fast food
 business and I personally do not like waiting for long in the store or to have to call store to place an order
 especially during the peak lunch or dinner hours. Moreover, I value recent learning about the Java and JSP
@@ -34,12 +37,14 @@ designing and applications. The languages used to build this application are Jav
 Java at client facing whereas Oracle database at the back-end because I found them to be extremely useful
 while working on the technologies.
 
-Aim of the Software
+# Aim of the Software
+
 This software is developed to help computer science students to learn about the Web application
 designing using JSP and HTML from their basic capabilities to build a complete working application from scratch. Further, it gives insight about how GUI interacts with server-side language, Java, and finally with
 the Oracle database.
 
-ACKNOWLEDGEMENT
+# ACKNOWLEDGEMENT
+
 I would like to thank everyone who contributed towards the 
 completion of this project. I would like to thank our system analysis 
 and design subject professor Dr. Shaligram Prajapat sir for the 
